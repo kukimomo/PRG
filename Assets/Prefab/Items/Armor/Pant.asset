@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053912467fc0c6e46ad957a5623b4318, type: 3}
+  m_Name: Pant
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: ceaadb92971f27a4c856e898dd36c78b, type: 3}
+  stackSize: 0
+  quality: 0
+  title: ' Warm Pant'
+  armorType: 4
+  intellect: 12
+  strength: 7
+  stamina: 20
+  animationClips:
+  - {fileID: 7400000, guid: 422515ea98cd05a47a5e54683b7a57d4, type: 2}
+  - {fileID: 7400000, guid: bf81add26e5b1f34ca38574d456a30d8, type: 2}
+  - {fileID: 7400000, guid: cd2c4724c2528604191d7078dae0b482, type: 2}
+  - {fileID: 7400000, guid: a0272e52af6564e4ab50af131336ce61, type: 2}
+  - {fileID: 7400000, guid: 41a096c72ba599346a8b5ee00966aec0, type: 2}
+  - {fileID: 7400000, guid: 5360f1f3d0536e440a9cfa194ce57dc0, type: 2}
+  - {fileID: 7400000, guid: 90b36dba88339a841a76df6473e2fc71, type: 2}
+  - {fileID: 7400000, guid: efede9587a31fb94196e0d3c92050ec8, type: 2}
+  - {fileID: 7400000, guid: a5f1f1508a163774bbef160464b813a3, type: 2}
+  - {fileID: 7400000, guid: be907ee72aead904588716d6cd60e95d, type: 2}
+  - {fileID: 7400000, guid: 21287063fbf5aaf4384818088c7b7bd1, type: 2}
+  - {fileID: 7400000, guid: 643d829f58bb6c14d8c7af135fbb07c7, type: 2}

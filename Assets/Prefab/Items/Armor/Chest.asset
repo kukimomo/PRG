@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053912467fc0c6e46ad957a5623b4318, type: 3}
+  m_Name: Chest
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: c98a1141c2912474ab0e8a7ab3d0efb2, type: 3}
+  stackSize: 0
+  quality: 0
+  title: Powerful Chest
+  armorType: 2
+  intellect: 2
+  strength: 5
+  stamina: 17
+  animationClips:
+  - {fileID: 7400000, guid: 4dab3d962fcc2c249b053f9c1306c9ce, type: 2}
+  - {fileID: 7400000, guid: b96bf973b1e07384ab59423598417c32, type: 2}
+  - {fileID: 7400000, guid: 2f12609d4beb57d4c8d52a4d04b4edfd, type: 2}
+  - {fileID: 7400000, guid: e1fc0d21106dcd542b05a9cb152e5625, type: 2}
+  - {fileID: 7400000, guid: 505c0a04997797543baa0787e410b43b, type: 2}
+  - {fileID: 7400000, guid: 177e6845e0af1be45a56e1e76a723a77, type: 2}
+  - {fileID: 7400000, guid: f711d821fb9f70e4c82a70d88a1d4b4e, type: 2}
+  - {fileID: 7400000, guid: 6228c426d6bad8c44bb9099370f6d364, type: 2}
+  - {fileID: 7400000, guid: f658dba583b26af4783c7d9af29cf208, type: 2}
+  - {fileID: 7400000, guid: 039052de88757f145b83d7dfd9509b2c, type: 2}
+  - {fileID: 7400000, guid: 9b0c0c7ed299b5f41adc4ad8311b91a3, type: 2}
+  - {fileID: 7400000, guid: fc37e6e440aba00429baa6f7b34f73db, type: 2}

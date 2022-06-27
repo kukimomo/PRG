@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053912467fc0c6e46ad957a5623b4318, type: 3}
+  m_Name: Shoulders
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: db8cf5acdef4ae74c87ae796c35e4235, type: 3}
+  stackSize: 0
+  quality: 3
+  title: Simple shoulders
+  price: 0
+  armorType: 1
+  intellect: 13
+  strength: 2
+  stamina: 4
+  animationClips:
+  - {fileID: 7400000, guid: 1c9637b7fc8ee7e4a9d445e6376a9db9, type: 2}
+  - {fileID: 7400000, guid: 4b55de82511c7994caca5f22d881700e, type: 2}
+  - {fileID: 7400000, guid: 2a5a0dc548c9c854b8a82aa9fd4425ab, type: 2}
+  - {fileID: 7400000, guid: 1044c84dcfc8be046b07d2e400a908d0, type: 2}
+  - {fileID: 7400000, guid: 06c897432c382304f9c19ef6aca25265, type: 2}
+  - {fileID: 7400000, guid: c09eee69216b68943b13e44dcf241b6a, type: 2}
+  - {fileID: 7400000, guid: b8e9d98ba3915894686df81dc7805120, type: 2}
+  - {fileID: 7400000, guid: 08cea995328d8714fa7d9ef61193731d, type: 2}
+  - {fileID: 7400000, guid: 1d27178277f73ba40ab91d07e9a1ca6a, type: 2}
+  - {fileID: 7400000, guid: 2ada098537566a741828d43dcfff3995, type: 2}
+  - {fileID: 7400000, guid: dcf9a675e2ffe8a429ed9469fc7cb999, type: 2}
+  - {fileID: 7400000, guid: 6098cea6cb33abf418b38bf50fbaac65, type: 2}

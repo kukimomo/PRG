@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053912467fc0c6e46ad957a5623b4318, type: 3}
+  m_Name: Orb
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 3ef4c3f59bb976b4ba2a8cc0166b8c7c, type: 3}
+  stackSize: 0
+  quality: 2
+  title: Crazy Knife
+  price: 100
+  armorType: 7
+  intellect: 5
+  strength: 20
+  stamina: 3
+  animationClips: []

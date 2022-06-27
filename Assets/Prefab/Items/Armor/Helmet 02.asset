@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053912467fc0c6e46ad957a5623b4318, type: 3}
+  m_Name: Helmet 02
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 47062b3c92c48234b8ef4c417b8a913b, type: 3}
+  stackSize: 0
+  quality: 2
+  title: Great Helmet
+  armorType: 0
+  intellect: 10
+  strength: 2
+  stamina: 4
+  animationClips:
+  - {fileID: 7400000, guid: 102c81c2a8117b84cabe5dac993dda43, type: 2}
+  - {fileID: 7400000, guid: 11113cb482fd0b54788b4d60b252decc, type: 2}
+  - {fileID: 7400000, guid: afba3ffa86eda554bb7a6431a67fd9c8, type: 2}
+  - {fileID: 7400000, guid: 79fab02ff200e914187beae84e8cee8f, type: 2}
+  - {fileID: 7400000, guid: abeb73d8d41b71d42970dfcf6fb4a447, type: 2}
+  - {fileID: 7400000, guid: f3bdf0aecfa40dd448daea204e535dd5, type: 2}
+  - {fileID: 7400000, guid: a5d56536f6752fb45bc82310951dde98, type: 2}
+  - {fileID: 7400000, guid: 2466e9c84bc1f2747af5b9e94652cd75, type: 2}
+  - {fileID: 7400000, guid: c31dff8ecb8d67a4686a3bf075b7b149, type: 2}
+  - {fileID: 7400000, guid: cb6c7a42987fccc4abf679da431b5a47, type: 2}
+  - {fileID: 7400000, guid: fbe91ce208a3ced46a04381e1bd756eb, type: 2}
+  - {fileID: 7400000, guid: a38abb8721bb33e409b2e08e43c321d1, type: 2}

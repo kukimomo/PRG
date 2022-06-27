@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053912467fc0c6e46ad957a5623b4318, type: 3}
+  m_Name: Boots
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 7a2ba685f4cc77b4abd752c75ef242d7, type: 3}
+  stackSize: 0
+  quality: 1
+  title: Snow Boot
+  price: 15
+  armorType: 5
+  intellect: 7
+  strength: 8
+  stamina: 9
+  animationClips:
+  - {fileID: 7400000, guid: 6f2be5bd61f51044487797e5115a5c6a, type: 2}
+  - {fileID: 7400000, guid: 645cbfac85ed50f4b97a2b7407495fda, type: 2}
+  - {fileID: 7400000, guid: f2a5ad9bd1103d84f90bebe1e6f5a7a8, type: 2}
+  - {fileID: 7400000, guid: 48b0b35242f001c4eacb31dd9acf8500, type: 2}
+  - {fileID: 7400000, guid: 270fd83c3aa38f74784077583a066b39, type: 2}
+  - {fileID: 7400000, guid: 38f4c7225e7189443b8d6d9f445703e6, type: 2}
+  - {fileID: 7400000, guid: 13c5131d46b55ed4e833eb5cd40070be, type: 2}
+  - {fileID: 7400000, guid: dc55a7a79a9c01d4d83e582e02aff520, type: 2}
+  - {fileID: 7400000, guid: fb85f7fb5df7ad0458ef16fb1026c303, type: 2}
+  - {fileID: 7400000, guid: 0e9d7e256436a294b98b03505f34f434, type: 2}
+  - {fileID: 7400000, guid: d3cea976ab56f344eb905fab7a006483, type: 2}
+  - {fileID: 7400000, guid: 683a4e467c58b5d4894bc150b9127406, type: 2}
